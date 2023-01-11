@@ -1,0 +1,15 @@
+
+[
+    {
+     "titulo":"estudiar JS",
+     "estado":"en proceso"
+    },
+    {
+        "titulo":"estudiar mat",
+        "estado":"en proceso"
+    },
+    {
+        "titulo":"estudiar lengua",
+        "estado":"terminado"
+    }
+]
